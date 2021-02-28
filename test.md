@@ -7,7 +7,6 @@ content: test
 media:
   image: ''
   alt_text: ''
-published: false
 
 ---
 test
